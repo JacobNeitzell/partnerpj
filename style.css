@@ -1,0 +1,35 @@
+.card {
+  min-width: 20%;
+  min-height: 20px;
+}
+
+.cards {
+  padding: 0;
+
+}
+
+.topboy {
+  background-image: url("https://images.unsplash.com/photo-1541280910158-c4e14f9c94a3?ixlib=rb-1.2.1&ixid=MnwxM[…]90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+  height: 60vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.office {
+  height: 35vh;
+  width: 25vw;
+}
+
+.card1 {
+  padding: 0;
+  height: 0;
+}
+
+.kiwi {
+  font-size: small;
+}
+
+.banana {
+  font-size: small;
+  list-style: none;
+}
